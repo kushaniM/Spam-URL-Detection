@@ -1,0 +1,76 @@
+5 set of questions with 2/3 sub questions. 90- Marks
+
+Lecture 1
+* Network Design - 1
+* Network layering -25
+    * Network Segmenting -
+* Gateway address
+* Multi late
+
+Lecture 2	
+* Terminology 
+* Multiplexing and Virtualisation
+* Physical and Virtual topology - Slide 7, 8
+* VPA corporate …..
+* Segment Routing
+* Segment Routing Operation - (Slide 16)
+* MPLS Operations, MPLS Header
+* Slide 26 
+* MPL and segment - 1 set of question
+
+Lecture 3
+* Subnetting (Important)
+* IP Calculation
+* Mathematical questions
+* IP skimming
+*
+
+
+Algorithms - Dijikstra
+
+IoT
+* * Lecture 4- Network Protocols
+* Segment Routing
+* 9,10,11,12
+* 25,26,27
+
+Updated lecture 6 - Lecture 4
+
+* IPv6 Theory questions
+* Header Formats
+* Advantages
+* Disadvantages
+* IPv6 Header structure, Discuss
+* Slide 12 - 15
+* IPv6 Interface ID - Slide 21
+* Upto Slide 24
+
+Lecture 5
+* No
+
+Lecture 5 Unicast free path
+* Bellman ford cycle 
+* Dijkstra shortest path
+* Calculate
+* Theory
+
+Lecture 7 - Dynamic Routines Algorithm
+* Theory 
+    * Slide 11 - 36(31)
+    * Distance vector protocol - Belman ford
+    * Link….. - Dijkstra
+
+Lecture 8 - 
+Virtualised Network Functions.
+* Improving 25, 26, 27, 28, 29 , 30 , 31
+* Slide 33 - 35 (Less important)
+
+
+Lecture 9 - Network Design
+* Slide 13, 14, 15 
+* 28, 29,30 (Measuring Resilience )
+* 
+
+Lecture 10 - Not
+* Upto ArchitectureSlide 10
+* Slide 20 - Challenges
